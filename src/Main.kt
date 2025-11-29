@@ -15,7 +15,4 @@ fun main() {
         transport.specialAbility()
         println()
     }
-
-    // задание 2
-
 }
